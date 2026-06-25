@@ -1,0 +1,246 @@
+# 🎙️ "SIX MONTHS THAT CHANGED EVERYTHING"
+## A News Script on AI — January to June 2026
+### Estimated Read Time: 7–8 minutes | Can be trimmed to 5 min (see cut notes)
+
+---
+
+> **ANCHOR NOTE:** This is written as a single-anchor broadcast narrative. Tone: urgent, cinematic, authoritative — like a documentary voiceover crossed with breaking news. Pause marks [ ] indicate breath beats.
+
+---
+
+## COLD OPEN
+
+*[Low music. Slow build.]*
+
+"Six months ago, we stood at the edge of something.
+
+We could feel it — in the hum of data centers, in the nervous chatter of boardrooms, in the quiet panic of governments trying to regulate something that was already moving faster than the law.
+
+We just didn't know *how big* the wave would get.
+
+Now we do.
+
+[ ]
+
+This is six months in Artificial Intelligence. January to June, 2026. Not a tech story. Not a business story.
+
+A *history* story.
+
+Let's go back to the beginning."
+
+---
+
+## ACT I — JANUARY: THE YEAR WAKES UP HUNGRY
+
+*[Music shifts — purposeful, driving]*
+
+"January, 2026. The industry barely paused for New Year's.
+
+The tone was set immediately: this would be a year not of *promise* — but of *proof*. The analysts said it clearly — AI enthusiasm was giving way to scrutiny. The question wasn't *can it?* anymore. The question was *will it pay?*
+
+But before anyone could answer that… the machines started shipping.
+
+Google opened the year announcing that **Personal Intelligence** was coming to Gemini — AI that learns your Gmail, your Photos, your calendar — and responds like it's known you for years. Personalized AI. For everyone. Right in your pocket.
+
+Meanwhile, at CES in Las Vegas, NVIDIA pulled back the curtain on **Vera Rubin** — its next-generation AI chip platform, built to handle *trillion-parameter models*. [ ] Trillion. Not billion. The hardware arms race had reached a new altitude.
+
+And in the pharmaceutical world, Eli Lilly quietly flipped a switch on **LillyPod** — the most powerful AI supercomputer in the history of medicine. Where traditional labs test two thousand molecular hypotheses a year? LillyPod can simulate *billions*. In parallel. AI wasn't just writing code anymore. It was hunting for cures.
+
+January said: *We mean business.*"
+
+---
+
+## ACT II — FEBRUARY: THE ACCUSATION
+
+*[Music drops slightly. Tension.]*
+
+"February brought something darker.
+
+The model releases kept coming — Claude Opus 4.6, Claude Sonnet 4.6, GPT-5.3 Codex, Gemini 3.1 Pro — twelve major AI updates in a single month. The pace was dizzying. Analysts tracked over *255 model releases* across organizations in Q1 alone.
+
+But February's biggest story wasn't a model.
+
+It was an accusation.
+
+**Anthropic publicly alleged that DeepSeek** — China's breakout AI star — had used thousands of fraudulent accounts to generate *millions* of conversations with Claude, harvesting that data to train its own models. Stealing intelligence from intelligence. [ ]
+
+The White House weighed in. The tech CEOs weighed in. And DeepSeek — the scrappy Chinese upstart that had rattled Silicon Valley just a year before by delivering near-frontier performance for a fraction of the cost — was suddenly in the center of a geopolitical storm.
+
+This wasn't just a copyright dispute. This was the US-China AI rivalry coming to a boil.
+
+And it was only February."
+
+---
+
+## ACT III — MARCH: THE GOLD RUSH
+
+*[Music picks up — faster, more competitive]*
+
+"March. And the gold rush was on.
+
+The model releases weren't slowing — they were *accelerating*. Every two to three weeks, a new flagship. GPT-5.4 from OpenAI. DeepSeek V4 emerging on the horizon, deliberately timed to coincide with China's political season — the *Two Sessions* — a symbolic declaration that China's AI ambitions were now state policy.
+
+And here's what nobody was saying out loud, but everyone was feeling: **the rules of the game had changed.**
+
+You couldn't pick one AI model anymore and commit. The era of model *loyalty* was dead. The new era of model *routing* had begun — developers juggling GPT-5.4, Claude, Gemini, DeepSeek simultaneously, assigning each task to the best tool for the job.
+
+AI had become infrastructure. Like electricity. You don't ask which power plant lit your lamp.
+
+Meanwhile, something else was happening underground. A protocol called **MCP** — Anthropic's Model Context Protocol — crossed *97 million installs*. The plumbing of agentic AI was quietly becoming universal. The world was being wired for a future where AI agents don't just answer questions — they *take action.*
+
+March said: the frontier has no finish line."
+
+---
+
+## ACT IV — APRIL: THE WEEK SILICON VALLEY LOST ITS MIND
+
+*[Music peaks — dramatic, intense]*
+
+"April 23rd, 2026. Mark the date.
+
+Because on that single day — *one single Thursday* — OpenAI launched **GPT-5.5**. Its most powerful model yet. Sixty percent fewer hallucinations than its predecessor. Benchmark scores that made the previous generation look quaint.
+
+[ ]
+
+And then — less than *twenty-four hours later* — DeepSeek dropped **V4**. A *trillion-parameter* open-source model, running on Huawei's domestic chips, priced at fourteen *cents* per million tokens. Not dollars. *Cents.*
+
+The message was unmistakable: *China doesn't need your Nvidia chips anymore.*
+
+But that wasn't even the biggest news.
+
+The same week, **Meta announced eight thousand layoffs** — ten percent of its workforce — while simultaneously revealing it would *double* its AI spending to a hundred and fifteen billion dollars in 2026. They weren't retreating. They were *reloading.*
+
+And if that wasn't enough drama for one week — Samsung confirmed it was targeting **800 million devices** powered by Google's Gemini AI by year end. Eight hundred million. That's nearly one-tenth of *all humans alive.*
+
+[ ]
+
+April wasn't a news cycle. April was a *declaration of war*. Every major player, in every country, showing their hand at once.
+
+The stakes had never been higher."
+
+---
+
+## ACT V — MAY/JUNE PART I: THE MONEY RECKONS
+
+*[Music shifts — grand, sweeping, historical weight]*
+
+"And then came the money.
+
+May 20th, 2026: **SpaceX filed its S-1** with the SEC — the first domino in what would become the most consequential IPO wave since the internet era. Three companies. Three trillion-dollar ambitions. All going public within months of each other.
+
+On June 1st, **Anthropic officially filed for its IPO** — with a valuation sitting at *nine hundred and sixty-five billion dollars*. Nearly a trillion. For a company that didn't exist six years ago. Its run-rate revenue had crossed *forty-seven billion dollars* in May alone.
+
+OpenAI was preparing its own confidential filing. Together, the three listings — SpaceX, OpenAI, Anthropic — could represent *three point seven trillion dollars* in combined market cap.
+
+For context: that's larger than the GDP of France.
+
+[ ]
+
+And Elon Musk? He wasn't done. Days after SpaceX went public, he confirmed a **sixty-billion-dollar acquisition of Cursor** — the beloved AI coding tool — putting SpaceX in direct competition with Anthropic's Claude Code and OpenAI's Codex.
+
+The AI industry wasn't just changing the world anymore. It was eating *itself* — and getting bigger every bite."
+
+---
+
+## ACT VI — JUNE: THE BAN, THE HEIST, THE PHONE IN YOUR POCKET
+
+*[Music becomes tense, then triumphant]*
+
+"June. And three stories collided at once.
+
+First: the ban.
+
+On June 12th, the US government issued an export control directive — and Anthropic was forced to pull **Claude Fable 5 and Mythos 5** offline. Globally. Overnight. Users woke up to error messages. Developers scrambled. The AI that powered their workflows had simply... vanished.
+
+[ ]
+
+The reason? The government demanded *perfect jailbreak resistance*. A bar that, by Anthropic's own admission, no AI company can currently meet. It was like demanding a bank exist without any possibility of robbery — and closing it when it couldn't guarantee that.
+
+The models came back online around June 18th. But the message lingered: *governments can now switch off frontier AI like a light.*
+
+The geopolitical stakes of this technology had become viscerally, uncomfortably real.
+
+[ ]
+
+Second: the heist.
+
+**Noam Shazeer** — co-author of the 2017 paper *'Attention Is All You Need'*, the foundational text of modern AI — announced he was leaving Google DeepMind to join OpenAI. The man who invented the Transformer architecture. The intellectual cornerstone of *every AI model in existence*.
+
+Google had paid *two point seven billion dollars* to bring him back from his own startup just 22 months earlier.
+
+He lasted less than two years.
+
+Sam Altman called it a hire he had 'wanted since the very beginning.' Google's internal reaction was reportedly described as *shell-shocked.*
+
+[ ]
+
+And third — the moment AI came to *your* phone.
+
+At WWDC, Apple unveiled **Siri AI** — a complete reinvention of its assistant, powered by Google's Gemini, with a new standalone app, deep system integration, and — for the first time — the ability for users to choose their own AI. Claude. Gemini. ChatGPT. All living inside your iPhone, accessible with a swipe.
+
+Tim Cook wiped a tear during the keynote. His last WWDC. After 25 years of building the device in your pocket — he handed it to an AI.
+
+[ ]
+
+Meanwhile, ChatGPT's market share fell below fifty percent for the first time in history. The AI throne now has three claimants. And the contest — for your time, your data, your trust — has only just begun."
+
+---
+
+## CLOSE — THE MEANING OF IT ALL
+
+*[Music fades to near-silence. Anchor speaks slowly, deliberately.]*
+
+"Six months.
+
+Cures being simulated at the speed of light. Models being banned by governments. Trillion-dollar companies materializing from code and compute. A co-author of the most important AI paper ever written, changing sides.
+
+And Siri — the assistant we made fun of for ten years — finally... waking up.
+
+[ ]
+
+Here's what these six months taught us:
+
+AI is no longer a *technology* story. It is an *everything* story. It is a healthcare story, a national security story, a stock market story, a philosophy story. It is the story of what humans decide to build — and who controls what gets built.
+
+[ ]
+
+We are not watching the future arrive.
+
+We are *in it*.
+
+And the next six months? If history is any guide...
+
+[ ]
+
+...we haven't seen anything yet.
+
+I'm [YOUR NAME].
+
+Stay curious. Stay informed. And hold on."
+
+---
+
+*[Music swells. Fade out.]*
+
+---
+
+## 📋 PRODUCTION NOTES
+
+| Detail | Info |
+|---|---|
+| **Full script length** | ~1,100 words |
+| **Estimated read time** | 7–8 minutes at broadcast pace |
+| **Trim to 5 min** | Cut Acts II and III to 1 paragraph each |
+| **Trim to 3 min** | Keep Cold Open, Act IV, Act VI, and Close only |
+| **Tone** | Cinematic documentary — think CNN + Netflix docuseries |
+| **Music cue** | Suggest Hans Zimmer-style orchestral build with tension drops |
+| **Best for** | YouTube news segment, podcast, digital broadcast, event keynote opener |
+
+## 📅 TIMELINE AT A GLANCE (for B-roll / lower thirds)
+
+- **Jan 2026** — CES, NVIDIA Vera Rubin, Google Personal Intelligence, LillyPod
+- **Feb 2026** — DeepSeek accusation, model explosion (12 releases in one month)
+- **Mar 2026** — GPT-5.4, MCP hits 97M installs, agentic AI era begins
+- **Apr 2026** — GPT-5.5 + DeepSeek V4 same-day launch, Meta 8K layoffs + $115B AI bet
+- **May 2026** — SpaceX S-1, Anthropic near-trillion valuation, IPO wave begins
+- **Jun 2026** — Fable 5 government ban, Shazeer to OpenAI, Apple Siri AI, SpaceX buys Cursor for $60B
